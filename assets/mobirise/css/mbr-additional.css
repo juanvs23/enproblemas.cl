@@ -1925,51 +1925,34 @@ body {
 .cid-qK7qANOqUn H3 {
   color: #eeeeee;
 }
-.cid-qK7uPFxlAv {
-  padding-top: 105px;
-  padding-bottom: 75px;
-  background-color: #efefef;
-}
-.cid-qK7uPFxlAv .card-img {
-  background-color: #fff;
-}
-.cid-qK7uPFxlAv .card-box {
+.cid-qKc25hDsP1 {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-qK7uPFxlAv h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qK7uPFxlAv p {
-  text-align: left;
-}
-.cid-qK7uPFxlAv .mbr-text {
-  color: #767676;
-}
-.cid-qK7uPFxlAv .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qK7uPFxlAv .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+  background: linear-gradient(45deg, #ffffff, #eeeeee);
 }
 @media (min-width: 992px) {
-  .cid-qK7uPFxlAv .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
+  .cid-qKc25hDsP1 .mbr-figure {
+    padding-right: 4rem;
   }
 }
-.cid-qK7uPFxlAv .card-title {
-  color: #55b4d4;
+@media (max-width: 991px) {
+  .cid-qKc25hDsP1 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qKc25hDsP1 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qKc25hDsP1 .mbr-text,
+.cid-qKc25hDsP1 .mbr-section-btn B {
+  color: #000000;
 }
 .cid-qK7v8PkxQo {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/stock-photo-beautiful-young-woman-drinking-coffee-and-looking-through-window-while-sitting-at-windowsill-at-home-509001562-1500x1101.jpg");
 }
 .cid-qK7v8PkxQo .btn {
@@ -1982,21 +1965,42 @@ body {
   color: #eeeeee;
   text-align: right;
 }
-.cid-qK7Luypjnb {
+.cid-qKc29mPJda {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/stock-photo-happy-family-father-mother-baby-son-hold-hands-and-run-with-fun-along-edge-of-sunset-sea-on-317373432-1500x1101.jpg");
+  background-color: #efefef;
 }
-.cid-qK7Luypjnb H1 {
+.cid-qKc29mPJda .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qKc29mPJda .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qKc29mPJda .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qKc29mPJda .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qKc29mPJda .mbr-text,
+.cid-qKc29mPJda .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-qKc29mPJda H3 {
   color: #038bf8;
 }
-.cid-qK7Luypjnb .mbr-text,
-.cid-qK7Luypjnb .mbr-section-btn {
-  color: #ffffff;
-}
 .cid-qK7T0zWUtB {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-qK7T0zWUtB .line {
